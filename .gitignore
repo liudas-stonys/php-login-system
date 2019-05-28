@@ -1,0 +1,14 @@
+# IDEA
+.vscode
+
+# Config
+controllers/config/constants.php
+
+# Email verification
+controllers/emailController.php
+vendor
+composer.json
+composer.lock
+
+# Videos
+videos

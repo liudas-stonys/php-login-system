@@ -1,0 +1,26 @@
+/* Import Google fonts @ 14:30 */
+
+.form-div {
+    margin: 50px auto;
+    padding: 25px 15px 10px;
+    border: 1px solid #80ced7;
+    border-radius: 5px;
+    font-size: 1.1em;
+    font-family: "Lucida Sans";
+}
+
+.form-control:focus {
+    box-shadow: none;
+}
+
+form > p {
+    font-size: 0.89em;
+}
+
+.form-div.login {
+    margin-top: 100px;
+}
+
+.logout {
+    color: red;
+}

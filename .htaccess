@@ -1,0 +1,2 @@
+# Disable the need of file extention in URL
+Options +MultiViews
