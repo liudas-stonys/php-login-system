@@ -5,10 +5,10 @@
 controllers/config/constants.php
 
 # Email verification
-controllers/emailController.php
+# controllers/emailController.php
 vendor
-composer.json
-composer.lock
+# composer.json
+# composer.lock
 
 # Videos
 videos

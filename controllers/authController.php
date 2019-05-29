@@ -3,7 +3,7 @@
 session_start();
 
 require_once "config/db.php";
-// require_once "emailController.php";
+require_once "emailController.php";
 
 $errors = array();
 $username = "";
