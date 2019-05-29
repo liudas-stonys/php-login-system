@@ -2,7 +2,7 @@
 .vscode
 
 # Config
-controllers/config/constants.php
+config/constants.php
 
 # Email verification
 # controllers/emailController.php
