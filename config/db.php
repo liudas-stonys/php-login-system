@@ -1,7 +1,7 @@
 <?php
 
 require_once "constants.php";
-require_once "controllers/functions.php";
+require_once "utils/functions.php";
 
 $conn = new mysqli(DB_HOST, DB_USER, DB_PASS, DB_NAME);
 

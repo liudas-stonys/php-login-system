@@ -6,9 +6,12 @@ controllers/config/constants.php
 
 # Email verification
 # controllers/emailController.php
-vendor
+# vendor
 # composer.json
 # composer.lock
+
+# SwiftMailer
+vendor/swiftmailer
 
 # Videos
 videos
