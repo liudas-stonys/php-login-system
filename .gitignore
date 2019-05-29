@@ -10,8 +10,5 @@ controllers/config/constants.php
 # composer.json
 # composer.lock
 
-# SwiftMailer
-vendor/swiftmailer
-
 # Videos
 videos
