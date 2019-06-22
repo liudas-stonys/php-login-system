@@ -1,2 +1,2 @@
 # PHP login system
-With user registration and email verification
+With user registration and email verification.
